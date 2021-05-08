@@ -1,2 +1,2 @@
-# gameProject
-My project about gaming site like steam. I here worked with database MongoDB
+# Online Store
+My project about store site like kaspi store. I here worked with database MongoDB
